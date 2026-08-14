@@ -1,7 +1,7 @@
 # ☕ Starbucks Sales Analysis & Retail Performance Dashboard
 
 ## 🔗 Project Links
-* **Live Interactive Dashboard:** [View on Tableau Public](https://tableau.com)
+* **Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/shared/QJC2XZCP8?:display_count=n&:origin=viz_share_link)
 
 ## 📌 Project Overview
 An interactive retail intelligence dashboard built to evaluate sales trends, product categories, and regional market performance for Starbucks Corporation. 
