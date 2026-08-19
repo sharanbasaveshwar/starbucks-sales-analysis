@@ -20,7 +20,7 @@ Formulated clear data pathways to pinpoint seasonal sales fluctuations, underper
 * **Menu Analytics:** Matrix sheets isolating top revenue-generating menu items.
 
 ## 🖼️ Dashboard Preview
-![Tableau Dashboard Preview](dashboard_preview.png)
+![Tableau Dashboard Preview](https://github.com/sharanbasaveshwar/starbucks-sales-analysis/blob/main/Screenshot%202026-08-19%20145915.png)
 
 
 
